@@ -1,6 +1,6 @@
 {
   "name": "@peter.naydenov/visual-controller-for-vue",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Control multiple vue 2 apps in the same HTML page.",
   "main": "main.js",
   "scripts": {
